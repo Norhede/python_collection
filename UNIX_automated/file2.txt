@@ -1,0 +1,3 @@
+Hello Claus.
+I wrote a Python script to solve assignment UNIX 23.
+Please don't ask me in the exam how I do this in Bash - the command didn't work as described!
